@@ -1,0 +1,15 @@
+{
+  "name": "art-fetcher",
+  "version": "0.0.0",
+  "description": "hahaha",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "art",
+    "fetcher"
+  ],
+  "author": "hanwencheng",
+  "license": "MIT"
+}
